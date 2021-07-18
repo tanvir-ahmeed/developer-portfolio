@@ -46,3 +46,18 @@ body{
     background-repeat: no-repeat;
     background-position: left;
 }
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+      
+}
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+
